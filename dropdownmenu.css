@@ -1,0 +1,17 @@
+.menu-item{
+	border: 2px solid #34944999;
+	display: inline-block;
+	cursor: pointer;
+	position: relative;
+}
+
+.menu-item .dropdown{
+	width: 120px;
+	height: 40px;
+	background: green;
+	position: absolute;
+	cursor: pointer;
+	display: none;
+}
+
+	
